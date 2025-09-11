@@ -35,4 +35,7 @@
   <a href="http://qiita.com/wakinoza">
     <img height="20" src="https://qiita-badge.apiapi.app/s/wakinoza/contributions.svg" />
   </a>
+   <a href="https://zenn.dev/wakinoza">
+    <img height="20" src="https://badgen.org/img/zenn/wakinoza/articles?style=plastic" />
+  </a>
 </p>
