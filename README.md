@@ -1,9 +1,9 @@
 
 # About Me
 
-1.私の目標はバックエンドエンジニアになることで、そのために積極的に勉強しています。(My goal is to become a backend engineer, and I'm actively studying to achieve that.)
+1. バックエンドエンジニアになるため、積極的に勉強しています。(My goal is to become a backend engineer, and I'm actively studying to achieve that.)
 
-2.現在、Javaを勉強しています。(My favorites are Java.)
+2. 現在は「Java」を勉強しています。(My favorites are Java.)
 
 3. Qiitaの記事は(You can find my Qiita Blog.)  [こちら](https://qiita.com/wakinoza)
 
@@ -14,11 +14,16 @@
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 
-<img src="https://skillicons.dev/icons?i=java," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=Java," /> <br /><br />
 
 ## 勉強中の言語 (Languages I'm Learning)
 
 <img src="https://skillicons.dev/icons?i=html,css," /> <br /><br />
+
+## 使用しているツール　（Development Tools）
+
+<img src="https://skillicons.dev/icons?i=Git,GitHub,IntellijIDEA,eclipse," /> <br /><br />
+
 
 <p align="left">
   <a href="https://github.com/wakinoza/wakinoza/">
