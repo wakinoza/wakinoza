@@ -14,7 +14,7 @@
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 
-<img src="https://skillicons.dev/icons?i=Java," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=java," /> <br /><br />
 
 ## 勉強中の言語 (Languages I'm Learning)
 
@@ -22,7 +22,7 @@
 
 ## 使用しているツール　（Development Tools）
 
-<img src="https://skillicons.dev/icons?i=Git,GitHub,IntellijIDEA,eclipse," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,Intellij,eclipse," /> <br /><br />
 
 
 <p align="left">
