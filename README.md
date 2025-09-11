@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**wakinoza/wakinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+1.私の目標はバックエンドエンジニアになることで、そのために積極的に勉強しています。
+  My goal is to become a backend engineer, and I'm actively studying to achieve that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2.現在、Javaを勉強しています。
+   My favorites are Java.
+
+4. Qiitaの記事は [こちら](https://qiita.com/wakinoza)
+   You can find my Qiita Blog 
+
+4. Zennの記事は [こちら](https://zenn.dev/wakinoza)
+   You can find my Zenn Blog 
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=wakinoza&show_icons=true&locale=en&layout=compact)
+
+## 特に力を入れている言語
+  Languages I'm Currently Focusing On
+
+<img src="https://skillicons.dev/icons?i=java," /> <br /><br />
+
+## 勉強中の言語
+  Languages I'm Learning
+
+<img src="https://skillicons.dev/icons?i=html,css," /> <br /><br />
+
+<p align="left">
+  <a href="https://github.com/wakinoza/wakinoza/">
+    <img src="https://komarev.com/ghpvc/?username=wakinoza" alt="wakinoza" />
+  </a>
+  <a href="http://qiita.com/wakinoza">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/wakinoza/posts.svg" />
+  </a>
+  <a href="http://qiita.com/wakinoza">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/wakinoza/contributions.svg" />
+  </a>
+</p>
