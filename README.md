@@ -22,7 +22,7 @@
 
 ## 使用しているツール　（Development Tools）
 
-<img src="https://skillicons.dev/icons?i=git,github,Intellij,eclipse," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion," /> <br /><br />
 
 
 <p align="left">
