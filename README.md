@@ -1,13 +1,13 @@
 
 # About Me
 
-1. バックエンドエンジニアになるため、積極的に勉強しています。(My goal is to become a backend engineer, and I'm actively studying to achieve that.)
+1. バックエンドエンジニアになるために勉強しています。(My goal is to become a backend engineer, and I'm actively studying to achieve that.)
 
-2. 現在は「Java」を勉強しています。(My favorites are Java.)
+2. 現在は「Java」を中心に勉強しています。(My favorites are Java.)
 
-3. Qiitaの記事は(You can find my Qiita Blog.)  [こちら](https://qiita.com/wakinoza)
+3. Qiitaの記事は[こちら](https://qiita.com/wakinoza) (You can find my Qiita Blog.) 
 
-4. Zennの記事は(You can find my Zenn Blog.) [こちら](https://zenn.dev/wakinoza)
+4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.) 
    
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=wakinoza&show_icons=true&locale=en&layout=compact)
