@@ -10,8 +10,6 @@
 4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.) 
    
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=wakinoza&show_icons=true&locale=en&layout=compact)
-
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 
 <img src="https://skillicons.dev/icons?i=java," /> <br /><br />
