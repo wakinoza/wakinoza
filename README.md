@@ -14,9 +14,9 @@
 Java
 
 <img src="https://skillicons.dev/icons?i=java," /> <br /><br />
-Python、HTML、CSS
 
 ## 触ったことがある言語 (Languages I'm Learning)
+Python、HTML、CSS
 
 <img src="https://skillicons.dev/icons?i=python,html,css," /> <br /><br />
 
