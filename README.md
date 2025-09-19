@@ -18,7 +18,7 @@ Python、HTML、CSS
 
 ## 触ったことがある言語 (Languages I'm Learning)
 
-<img src="https://skillicons.dev/icons?i=Python,html,css," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,html,css," /> <br /><br />
 
 ## 使用しているツール　（Development Tools）
 Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion
