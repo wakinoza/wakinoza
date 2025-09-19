@@ -11,14 +11,17 @@
    
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
+Java
 
 <img src="https://skillicons.dev/icons?i=java," /> <br /><br />
+Python、HTML、CSS
 
-## 勉強中の言語 (Languages I'm Learning)
+## 触ったことがある言語 (Languages I'm Learning)
 
-<img src="https://skillicons.dev/icons?i=html,css," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=Python,html,css," /> <br /><br />
 
 ## 使用しているツール　（Development Tools）
+Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion," /> <br /><br />
 
