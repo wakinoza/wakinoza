@@ -21,9 +21,9 @@ Python、HTML、CSS
 <img src="https://skillicons.dev/icons?i=python,html,css," /> <br /><br />
 
 ## 使用しているツール　（Development Tools）
-Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL
+Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL、Docker
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion,mysql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion,mysql,docker" /> <br /><br />
 
 
 <p align="left">
