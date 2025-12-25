@@ -11,13 +11,7 @@
 
 ## GitHub Activities
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=wakinoza&theme=2077" alt="Top Langs" />
-</p>
+![GitHub Metrics](github-metrics.svg)
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 Java
