@@ -12,17 +12,12 @@
 ## GitHub Activities
 
 <p align="left">
-  <a href="https://github.com/wakinoza">
-    <img src="https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/wakinoza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakinoza&layout=compact&theme=dark" alt="Top Langs" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=wakinoza&theme=2077" alt="Top Langs" />
 </p>
-
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 Java
