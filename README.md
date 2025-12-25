@@ -7,7 +7,9 @@
 
 3. Qiitaの記事は[こちら](https://qiita.com/wakinoza) (You can find my Qiita Blog.) 
 
-4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.) 
+4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
    
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
