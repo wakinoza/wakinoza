@@ -9,6 +9,10 @@
 
 4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakinoza&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakinoza&layout=compact)
+
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 Java
@@ -37,3 +41,5 @@ Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL、D
     <img height="20" src="https://qiita-badge.apiapi.app/s/wakinoza/contributions.svg" />
   </a>
 </p>
+![Zenn Articles](https://zenn.badge.nikaera.com/s/wakinoza/articles?style=flat)
+
