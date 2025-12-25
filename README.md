@@ -15,6 +15,9 @@
   <a href="https://github.com/wakinoza">
     <img src="https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/wakinoza">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakinoza&layout=compact&theme=dark" alt="Top Langs" />
   </a>
