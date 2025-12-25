@@ -1,7 +1,7 @@
 
 # About Me
 
-1. バックエンドエンジニアになるために勉強しています。(My goal is to become a backend engineer, and I'm actively studying to achieve that.)
+1. エンジニアになるために勉強しています。(My goal is to become a engineer, and I'm actively studying to achieve that.)
 
 2. 現在は「Java」を中心に勉強しています。(My favorites are Java.)
 
