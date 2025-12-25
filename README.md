@@ -9,8 +9,6 @@
 
 4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.)
 
-<img src="https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakinoza&layout=compact&theme=tokyonight" />
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 Java
