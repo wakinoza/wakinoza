@@ -9,24 +9,8 @@
 
 4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.)
 
-## GitHub Activities
-
+## GitHub Activities & Skills
 ![GitHub Metrics](github-metrics.svg)
-
-## 特に力を入れている言語 (Languages I'm Currently Focusing On)
-Java
-
-<img src="https://skillicons.dev/icons?i=java," /> <br /><br />
-
-## 触ったことがある言語 (Languages I'm Learning)
-Python、HTML、CSS
-
-<img src="https://skillicons.dev/icons?i=python,html,css," /> <br /><br />
-
-## 使用しているツール　（Development Tools）
-Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL、Docker
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion,mysql,docker" /> <br /><br />
 
 
 <p align="left">
