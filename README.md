@@ -41,5 +41,5 @@ Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL、D
     <img height="20" src="https://qiita-badge.apiapi.app/s/wakinoza/contributions.svg" />
   </a>
 </p>
-![Zenn Articles](https://zenn.badge.nikaera.com/s/wakinoza/articles?style=flat)
+
 
