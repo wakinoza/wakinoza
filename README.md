@@ -8,7 +8,13 @@
 3. Qiitaの記事は[こちら](https://qiita.com/wakinoza) (You can find my Qiita Blog.) 
 
 4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.)
-   
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wakinoza&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=wakinoza&theme=juicyfresh&no-bg=true" />
+
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 Java
