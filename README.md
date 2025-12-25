@@ -9,6 +9,8 @@
 
 4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.)
 
+## GitHub Activities
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakinoza&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakinoza&layout=compact)
