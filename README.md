@@ -23,12 +23,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/wakinoza">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakinoza&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
 Java
