@@ -11,9 +11,20 @@
 
 ## GitHub Activities
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakinoza&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakinoza&layout=compact)
+<p align="left">
+  <a href="https://github.com/wakinoza">
+    <img src="https://github-readme-stats.vercel.app/api?username=wakinoza&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/wakinoza">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakinoza&layout=compact&theme=dark" alt="Top Langs" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/wakinoza">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakinoza&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 ## 特に力を入れている言語 (Languages I'm Currently Focusing On)
