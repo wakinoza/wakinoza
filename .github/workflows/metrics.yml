@@ -10,6 +10,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:
@@ -26,3 +27,4 @@ jobs:
           plugin_languages_details: percentage 
           
           config_order: base.header, isocalendar, languages
+          retention_days: 1
