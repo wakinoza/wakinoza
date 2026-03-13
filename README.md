@@ -33,9 +33,6 @@ Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL、D
 
 
 <p align="left">
-  <a href="https://github.com/wakinoza/wakinoza/">
-    <img src="https://komarev.com/ghpvc/?username=wakinoza" alt="wakinoza" />
-  </a>
   <a href="http://qiita.com/wakinoza">
     <img height="20" src="https://qiita-badge.apiapi.app/s/wakinoza/posts.svg" />
   </a>
