@@ -27,9 +27,9 @@ Python、HTML、CSS
 
 ### 使用しているツール　（Development Tools）
 
-Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL、Docker、JUnit
+Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL、Docker、JUnit、AWS、PostgreSQL
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion,mysql,docker,JUnit" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion,mysql,docker,JUnit,aws,postgresql" /> <br /><br />
 
 
 <p align="left">
