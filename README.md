@@ -29,7 +29,7 @@ Python、HTML、CSS
 
 Git、GitHub、Visual Studio Code、Eclipse、Intellij IDEA、notion、MySQL、Docker、JUnit、AWS、PostgreSQL
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion,mysql,docker,JUnit,aws,postgresql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion,mysql,docker,aws,postgresql" /> <br /><br />
 
 
 <p align="left">
