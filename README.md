@@ -15,15 +15,15 @@
 
 ## Languages and Tools
 ### 力を入れている言語 (Languages I'm Currently Focusing On)
-Java
+Java、 Python
 
-<img src="https://skillicons.dev/icons?i=java," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=java,python," /> <br /><br />
 
 ### 触ったことがある言語 (Languages I'm Learning)
 
-Python、HTML、CSS
+HTML、CSS
 
-<img src="https://skillicons.dev/icons?i=python,html,css," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css," /> <br /><br />
 
 ### 使用しているツール　（Development Tools）
 
