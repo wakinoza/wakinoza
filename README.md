@@ -1,13 +1,13 @@
 
 # About Me
 
-1. エンジニアになるために勉強しています。(My goal is to become a engineer, and I'm actively studying to achieve that.)
+1. エンジニアになるために勉強しています。
 
-2. 現在は「Java」を中心に勉強しています。(My favorites are Java.)
+2. 現在は「AWS」「Python」を中心に勉強しています。
+  
+3. Qiitaの記事は[こちら](https://qiita.com/wakinoza) 
 
-3. Qiitaの記事は[こちら](https://qiita.com/wakinoza) (You can find my Qiita Blog.) 
-
-4. Zennの記事は[こちら](https://zenn.dev/wakinoza) (You can find my Zenn Blog.)
+4. Zennの記事は[こちら](https://zenn.dev/wakinoza) 
 
 ## GitHub Activities
 
