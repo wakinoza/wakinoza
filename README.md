@@ -3,7 +3,7 @@
 
 1. エンジニアになるために勉強しています。
 
-2. 現在は「AWS」「Python」を中心に勉強しています。
+2. 現在は「Java」「AWS」「Python」を中心に勉強しています。
   
 3. Qiitaの記事は[こちら](https://qiita.com/wakinoza) 
 
